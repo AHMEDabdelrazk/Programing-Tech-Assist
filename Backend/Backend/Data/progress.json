@@ -1,0 +1,146 @@
+[
+  {
+    "Username": "ahmed0@gmail.com",
+    "Technology": "ASP.NET Core",
+    "Basics": true,
+    "Intermediate": true,
+    "Advanced": true,
+    "Projects": 0,
+    "Score": 28,
+    "TopicProgress": [
+      {
+        "Level": "Basics",
+        "Topic": "Middleware pipeline",
+        "Completed": true
+      },
+      {
+        "Level": "Basics",
+        "Topic": "Routing \u0026 Controllers",
+        "Completed": false
+      },
+      {
+        "Level": "Basics",
+        "Topic": "Dependency Injection",
+        "Completed": false
+      },
+      {
+        "Level": "Basics",
+        "Topic": "Configuration \u0026 Logging",
+        "Completed": false
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Entity Framework Core",
+        "Completed": true
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Authentication \u0026 Authorization",
+        "Completed": false
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Web APIs \u0026 OpenAPI/Swagger",
+        "Completed": false
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Background services",
+        "Completed": false
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Performance tuning \u0026 caching",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Testing \u0026 integration tests",
+        "Completed": false
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Microservices \u0026 Dapr",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Deployment (Docker, Azure)",
+        "Completed": false
+      }
+    ],
+    "LastUpdated": "2026-09-27T13:47:21.9543582Z"
+  },
+  {
+    "Username": "ahmed0@gmail.com",
+    "Technology": "SQL Server",
+    "Basics": true,
+    "Intermediate": true,
+    "Advanced": true,
+    "Projects": 4,
+    "Score": 100,
+    "TopicProgress": [
+      {
+        "Level": "Basics",
+        "Topic": "Relational concepts",
+        "Completed": true
+      },
+      {
+        "Level": "Basics",
+        "Topic": "T-SQL basics",
+        "Completed": true
+      },
+      {
+        "Level": "Basics",
+        "Topic": "Indexes \u0026 primary keys",
+        "Completed": true
+      },
+      {
+        "Level": "Basics",
+        "Topic": "Backup/restore basics",
+        "Completed": true
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Query optimization",
+        "Completed": true
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Stored procedures \u0026 functions",
+        "Completed": true
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Transactions \u0026 isolation levels",
+        "Completed": true
+      },
+      {
+        "Level": "Intermediate",
+        "Topic": "Security \u0026 roles",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Partitioning \u0026 compression",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "High availability (Always On)",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Performance tuning \u0026 DMVs",
+        "Completed": true
+      },
+      {
+        "Level": "Advanced",
+        "Topic": "Advanced indexing strategies",
+        "Completed": true
+      }
+    ],
+    "LastUpdated": "2026-09-27T13:48:47.4825999Z"
+  }
+]

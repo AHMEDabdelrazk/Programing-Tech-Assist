@@ -806,11 +806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\TechRoadMap\\TechRoadMap\\Backend\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\Programming Tech Assist\\Backend\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\TechRoadMap\\TechRoadMap\\Backend\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\Programming Tech Assist\\Backend\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\TechRoadMap\\TechRoadMap\\Backend\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\Samir\\Desktop\\Temp A.Abdelrazik curr\\projects\\WebApps\\Programming Tech Assist\\Backend\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
