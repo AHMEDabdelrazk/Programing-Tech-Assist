@@ -1,0 +1,1228 @@
+﻿[
+  {
+    "name": "Web Development",
+    "color": "#0EA5E9",
+    "guide": "Pick one Front-End, one Back-End and one Database",
+    "technologies": [
+      {
+        "name": "HTML & CSS",
+        "group": "Frontend",
+        "color": "#06B6D4",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "HTML Elements",
+              "Forms",
+              "Tables",
+              "CSS Selectors",
+              "Box Model"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Flexbox",
+              "Grid",
+              "Responsive Design",
+              "Animations"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "CSS Architecture (BEM, OOCSS)",
+              "Accessibility (ARIA, semantic markup)",
+              "Performance & Critical CSS"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "group": "Frontend",
+        "color": "#F7DF1E",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Syntax & Types",
+              "DOM Manipulation",
+              "Events",
+              "ES6+ Features (let/const, arrow functions)",
+              "Functions & Scope"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Asynchronous JS (Promises, async/await)",
+              "Modules",
+              "Fetch / XHR",
+              "Closures & Prototypes",
+              "Functional array methods"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance optimization",
+              "Memory leaks & debugging",
+              "Design patterns",
+              "Tooling (Webpack, Rollup, Vite)",
+              "Type systems (flow/TypeScript integration)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "group": "Frontend",
+        "color": "#3178C6",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Types & Interfaces",
+              "Type annotations",
+              "Basic generics",
+              "Compilation setup"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Advanced generics",
+              "Mapped/Conditional types",
+              "Module resolution",
+              "Configuring tsconfig"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Declaration files",
+              "Type-level programming",
+              "Migration strategies",
+              "Strict mode & type narrowing"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "React",
+        "group": "Frontend",
+        "color": "#61DAFB",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "JSX",
+              "Components & Props",
+              "State & Events",
+              "Hooks: useState, useEffect"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Context API",
+              "Custom Hooks",
+              "Routing (React Router)",
+              "Performance (memo, useMemo, useCallback)"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Server-side rendering / Next.js",
+              "Concurrent features & Suspense",
+              "Testing (React Testing Library)",
+              "Advanced patterns (render props, HOCs)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Angular",
+        "group": "Frontend",
+        "color": "#DD0031",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Components & Templates",
+              "Data binding",
+              "Modules",
+              "Services & DI"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Routing & Guards",
+              "Reactive Forms",
+              "Observables (RxJS)",
+              "HTTP Client"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "NgRx / state management",
+              "Performance tuning",
+              "AOT & Ivy internals",
+              "Library development"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vue",
+        "group": "Frontend",
+        "color": "#42B883",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Directives",
+              "Components & Props",
+              "Computed & Watchers",
+              "Templates"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Vue Router",
+              "Vuex / Pinia",
+              "Composition API",
+              "Single File Components"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "SSR (Nuxt)",
+              "Performance & optimization",
+              "Plugin & library authoring",
+              "TypeScript with Vue"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ASP.NET Core",
+        "group": "Backend",
+        "color": "#8B5CF6",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Middleware pipeline",
+              "Routing & Controllers",
+              "Dependency Injection",
+              "Configuration & Logging"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Entity Framework Core",
+              "Authentication & Authorization",
+              "Web APIs & OpenAPI/Swagger",
+              "Background services"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance tuning & caching",
+              "Testing & integration tests",
+              "Microservices & Dapr",
+              "Deployment (Docker, Azure)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Node.js",
+        "group": "Backend",
+        "color": "#3C873A",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Node runtime & modules",
+              "npm / package management",
+              "File system & streams",
+              "HTTP server basics"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Express / Koa",
+              "Asynchronous patterns",
+              "Database integration",
+              "Security basics"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Clustering & scaling",
+              "Performance profiling",
+              "Streaming & real-time (WebSocket)",
+              "Native addons & worker threads"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spring Boot",
+        "group": "Backend",
+        "color": "#6DB33F",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Spring Core & Beans",
+              "Dependency Injection",
+              "Spring Boot starters",
+              "Creating REST APIs"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Spring Data JPA",
+              "Security (Spring Security)",
+              "Transactions",
+              "Actuator & monitoring"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Microservices (Spring Cloud)",
+              "Streaming (Kafka)",
+              "Performance tuning",
+              "Testing strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Django",
+        "group": "Backend",
+        "color": "#092E20",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Project/App structure",
+              "Models & Migrations",
+              "Templates",
+              "Admin site"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Forms & validation",
+              "Authentication",
+              "REST with Django REST Framework",
+              "Caching"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Scaling & deployment",
+              "Celery & background tasks",
+              "Advanced ORM techniques",
+              "Security best practices"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SQL Server",
+        "group": "Database",
+        "color": "#F59E0B",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Relational concepts",
+              "T-SQL basics",
+              "Indexes & primary keys",
+              "Backup/restore basics"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Query optimization",
+              "Stored procedures & functions",
+              "Transactions & isolation levels",
+              "Security & roles"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Partitioning & compression",
+              "High availability (Always On)",
+              "Performance tuning & DMVs",
+              "Advanced indexing strategies"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MySQL",
+        "group": "Database",
+        "color": "#00758F",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Schema design",
+              "Basic SQL queries",
+              "Indexes",
+              "Backup/restore"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Query optimization",
+              "Replication",
+              "Stored procedures",
+              "Transactions"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Sharding & scaling",
+              "Performance tuning",
+              "InnoDB internals",
+              "Advanced replication setups"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "group": "Database",
+        "color": "#336791",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Advanced SQL features",
+              "Schema & types",
+              "Indexes",
+              "Extensions (pg_trgm, PostGIS)"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Performance tuning",
+              "Replication & WAL",
+              "Partitioning",
+              "Stored procedures (PL/pgSQL)"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Logical replication & logical decoding",
+              "Custom extensions",
+              "Concurrency tuning",
+              "High availability setups"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MongoDB",
+        "group": "Database",
+        "color": "#47A248",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Document model",
+              "CRUD operations",
+              "Indexes",
+              "Data modeling patterns"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Aggregation framework",
+              "Replication & sharding basics",
+              "Transactions",
+              "Schema design for queries"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Sharding strategies",
+              "Performance tuning & profiling",
+              "Security & auditing",
+              "Operational best practices"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Windows Applications",
+    "color": "#8B5CF6",
+    "guide": "Choose one Desktop Framework",
+    "technologies": [
+      {
+        "name": "WinForms",
+        "group": "Desktop",
+        "color": "#8B5CF6",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Controls & events",
+              "Layouts",
+              "Project structure",
+              "Data binding basics"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Custom controls",
+              "Advanced data binding",
+              "Async patterns",
+              "Interoperability"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance tuning",
+              "Application lifecycle",
+              "Migration strategies (WPF/MAUI)",
+              "Testing desktop apps"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "WPF",
+        "group": "Desktop",
+        "color": "#5C2D91",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "XAML & layouts",
+              "Data binding",
+              "Resources & styles",
+              "Commands"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "MVVM pattern",
+              "Templates & control styling",
+              "Animations",
+              "Dependency properties"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance & virtualization",
+              "Custom controls",
+              "Interoperability",
+              "Deployment and installers"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MAUI",
+        "group": "Desktop",
+        "color": "#00A4EF",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Project structure",
+              "Layouts & UI controls",
+              "Handlers vs renderers",
+              "Cross-platform basics"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Dependency injection",
+              "Platform-specific code",
+              "Data binding & MVVM",
+              "Performance considerations"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Native integrations",
+              "Advanced UI/animations",
+              "Publishing to stores",
+              "Testing & CI/CD"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Console Applications",
+    "color": "#64748B",
+    "guide": "Choose one Programming Language",
+    "technologies": [
+      {
+        "name": "C++",
+        "group": "Language",
+        "color": "#00599C",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Syntax & types",
+              "Pointers & references",
+              "Standard Library (STL)",
+              "Build tools"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Object-oriented design",
+              "Templates",
+              "RAII & smart pointers",
+              "Multithreading basics"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Memory management & allocators",
+              "Advanced templates & metaprogramming",
+              "Performance optimization",
+              "Interfacing with C and system APIs"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C#",
+        "group": "Language",
+        "color": "#239120",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Language syntax",
+              "Types & collections",
+              "LINQ basics",
+              "Async/await"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Generics",
+              "Reflection",
+              "Delegates & events",
+              "Task Parallel Library"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Memory management & Span<T>",
+              "Performance tuning",
+              "Advanced runtime features",
+              "Interop and unsafe code"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Java",
+        "group": "Language",
+        "color": "#007396",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "JVM & tooling",
+              "Syntax & OOP",
+              "Collections",
+              "Exception handling"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Streams & lambdas",
+              "Concurrency",
+              "JDBC & database access",
+              "Build tools (Maven/Gradle)"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Memory tuning & GC",
+              "Microservices (Spring)",
+              "Performance profiling",
+              "Native interop (JNI)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Python",
+        "group": "Language",
+        "color": "#3776AB",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Syntax & data types",
+              "Standard Library",
+              "Virtual environments",
+              "I/O and file handling"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "OOP",
+              "Async (asyncio)",
+              "Popular frameworks (Flask/Django)",
+              "Packaging"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance (C extensions, profiling)",
+              "Concurrency",
+              "Data science & ML ecosystems",
+              "Deployment & scaling"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mobile Applications",
+    "color": "#10B981",
+    "guide": "Choose one Mobile Technology",
+    "technologies": [
+      {
+        "name": "Flutter",
+        "group": "Cross Platform",
+        "color": "#02569B",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Dart language basics",
+              "Widgets & layout",
+              "State management basics",
+              "Routing"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Provider / Riverpod",
+              "Platform channels",
+              "Animations",
+              "Testing"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance optimization",
+              "Native integrations",
+              "Build & release pipelines",
+              "Advanced state architectures"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "React Native",
+        "group": "Cross Platform",
+        "color": "#61DAFB",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Components & styling",
+              "Navigation",
+              "Native modules introduction",
+              "Debugging"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "State management (Redux/MobX)",
+              "Performance tuning",
+              "Native bridge",
+              "Testing"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Native module development",
+              "CI/CD for mobile",
+              "Advanced performance profiling",
+              "App distribution"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kotlin",
+        "group": "Android",
+        "color": "#0095D5",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Kotlin syntax",
+              "Coroutines basics",
+              "Android app fundamentals",
+              "Layouts & activities/fragments"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Jetpack components",
+              "Advanced coroutines",
+              "Dependency injection (Hilt)",
+              "Testing"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance & memory optimization",
+              "Custom view development",
+              "Multi-module apps",
+              "Kotlin Multiplatform basics"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Swift",
+        "group": "iOS",
+        "color": "#FA7343",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Swift syntax",
+              "UIKit basics",
+              "Xcode tooling",
+              "Storyboards & Auto Layout"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "SwiftUI basics",
+              "Combine",
+              "Networking & persistence",
+              "Testing"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Performance tuning",
+              "Concurrency (async/await)",
+              "Custom frameworks",
+              "App distribution & provisioning"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Game Development",
+    "color": "#F59E0B",
+    "guide": "Choose Engine + Language",
+    "technologies": [
+      {
+        "name": "Unity",
+        "group": "Engine",
+        "color": "#222C37",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Unity Editor & scenes",
+              "GameObjects & components",
+              "Scripting basics (C#)",
+              "Prefabs"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Physics & animation",
+              "UI system",
+              "Lighting & materials",
+              "Optimization basics"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "DOTS / ECS concepts",
+              "Advanced rendering",
+              "Multiplayer fundamentals",
+              "Custom tools & pipelines"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Unreal Engine",
+        "group": "Engine",
+        "color": "#0E7AC4",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Editor & Blueprints",
+              "Level design basics",
+              "Materials & lighting",
+              "Basic C++ integration"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Gameplay programming",
+              "Animation system",
+              "Networking basics",
+              "Optimization"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Advanced rendering & shaders",
+              "Engine customization",
+              "Profiling & performance",
+              "Large-scale multiplayer"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Godot",
+        "group": "Engine",
+        "color": "#478CBF",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Editor & scene system",
+              "GDScript basics",
+              "Nodes & signals",
+              "2D/3D fundamentals"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "UI & animation",
+              "Physics",
+              "Optimizing scenes",
+              "Tooling & plugins"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "C# integration",
+              "Custom modules",
+              "Advanced rendering",
+              "Export & deployment"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C#",
+        "group": "Language",
+        "color": "#EF4444",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Syntax for game scripting",
+              "Unity API basics",
+              "Event-driven programming"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Optimization patterns",
+              "Advanced data structures",
+              "Design patterns in games"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Low-level performance tuning",
+              "Multithreading & job systems",
+              "Engine-specific optimizations"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "group": "Language",
+        "color": "#EF4444",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "C++ for game engines",
+              "Memory & pointers",
+              "Build toolchains"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Engine systems",
+              "Optimized data structures",
+              "Platform-specific code"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Custom engine development",
+              "Advanced profiling",
+              "Cross-platform considerations"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Embedded Software",
+    "color": "#EF4444",
+    "guide": "Choose Language + Platform",
+    "technologies": [
+      {
+        "name": "Embedded C",
+        "group": "Language",
+        "color": "#EF4444",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "GPIO & peripherals",
+              "Memory-mapped I/O",
+              "Toolchains & flashing",
+              "Interrupts"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "RTOS basics",
+              "Low-power techniques",
+              "Communication protocols (I2C, SPI, UART)",
+              "Peripheral drivers"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Hardware abstraction layers",
+              "Real-time constraints & scheduling",
+              "Debugging with JTAG/SWD",
+              "Safety & certification basics"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C++",
+        "group": "Language",
+        "color": "#EF4444",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "C++ syntax for embedded",
+              "Memory management",
+              "Toolchains"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Templates & constexpr",
+              "Modern C++ idioms",
+              "Embedded STL alternatives"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Deterministic scheduling",
+              "Low-level optimization",
+              "Safety-critical patterns"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arduino",
+        "group": "Platform",
+        "color": "#F59E0B",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "Arduino IDE & board basics",
+              "Digital & analog I/O",
+              "Sensors & actuators",
+              "Simple projects"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Libraries & shields",
+              "Power management",
+              "Serial communication",
+              "Using external sensors"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Custom PCBs",
+              "Optimized firmware",
+              "Low-power designs",
+              "Integration with cloud services"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ESP32",
+        "group": "Platform",
+        "color": "#F59E0B",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "ESP32 boards & toolchain",
+              "Wi-Fi basics",
+              "GPIO & peripherals",
+              "RTOS intro (FreeRTOS)"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "Bluetooth LE",
+              "Power management",
+              "OTA updates",
+              "Advanced peripheral use"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Low-power modes",
+              "Secure boot & encryption",
+              "Mesh networking",
+              "Production deployment"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "STM32",
+        "group": "Platform",
+        "color": "#F59E0B",
+        "levels": [
+          {
+            "name": "Basics",
+            "topics": [
+              "STM32 families & toolchain",
+              "HAL & LL drivers",
+              "Clock configuration",
+              "GPIO and timers"
+            ]
+          },
+          {
+            "name": "Intermediate",
+            "topics": [
+              "RTOS integration",
+              "DMA & peripherals",
+              "Power consumption tuning",
+              "Bootloader basics"
+            ]
+          },
+          {
+            "name": "Advanced",
+            "topics": [
+              "Custom board bring-up",
+              "Hardware debugging",
+              "Safety-critical design",
+              "Real-time optimizations"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

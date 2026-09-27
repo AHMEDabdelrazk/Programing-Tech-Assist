@@ -1,0 +1,20 @@
+body{
+ margin:0;
+ font-family:Segoe UI;
+ background:#0d1117;
+ color:white;
+}
+
+button{
+ cursor:pointer;
+}
+
+.logout-btn{
+    border:none;
+
+    padding:10px 20px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+}
