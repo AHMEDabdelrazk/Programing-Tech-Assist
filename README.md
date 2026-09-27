@@ -150,7 +150,7 @@ For complete documentation, see [`Docs/API_DOCUMENTATION.md`](Docs/API_DOCUMENTA
 ## 📁 Project Structure
 
 ```
-TechRoadMap/
+Programming Tech Assist/
 ├── .github/workflows/ci.yml       # GitHub Actions CI pipeline
 ├── docker-compose.yml             # Orchestration for Backend and Frontend
 ├── README.md                      # Primary project documentation
